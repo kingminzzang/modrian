@@ -1,0 +1,59 @@
+.body{width: 100%; height: 100%;}
+
+.mon {
+	width: 960px;
+	height:100%;
+	position: fixed;
+	left: 25%;
+	}
+
+.box{
+	background-color: black;
+	width: 960px;
+	height:100%;
+	position: absolute;
+	left: 25%;
+	}
+.o{	background-color: white;
+	width: 200px;
+	height:275px;
+	position: relative;
+	left: 1%;
+	top: 1%;
+}
+.p{	background-color: white;
+	width: 200px;
+	height:333px;
+	position: relative;
+	left: 1%;
+	top: 7%;}
+.l{	background-color: blue;
+	width: 200px;
+	height:229px;
+	position: absolute;
+	left: 1%;
+	bottom: 1%;}
+.y{background-color: white;
+	width: 603px;
+	height:229px;
+	position: absolute;
+	right: 12%;
+	bottom: 1%;}
+.r{background-color: red;
+	width: 711px;
+	height:666px;
+	position: absolute;
+	right: 1%;
+	top: 1%;}
+.w{background-color: yellow;
+	width: 71px;
+	height:92px;
+	position: absolute;
+	right: 1%;
+	bottom: 1%;}
+.q{background-color: white;
+	width: 71px;
+	height:92px;
+	position: absolute;
+	right: 1%;
+	bottom: 15.5%;}
